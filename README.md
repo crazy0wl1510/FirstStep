@@ -3,3 +3,4 @@
 1/1/19: học "basic CSS"
 1/2/19: tiếp tục CSS
 1/3/19: luyện tập HTML và CSS ở w3schools.com
+1/4/19: học "Applied Visual Design"
