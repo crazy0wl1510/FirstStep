@@ -5,3 +5,4 @@
 1/3/19: luyện tập HTML và CSS ở w3schools.com
 1/4/19: học "Applied Visual Design"
 1/5/19: tiếp tục "Applied Visual Design"
+1/8/19: tiếp tục "Applied Visual Design"
